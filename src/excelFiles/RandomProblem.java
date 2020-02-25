@@ -78,7 +78,10 @@ public class RandomProblem {
 			
 			System.out.println("jira3 from american zone");
 			
-			
+			System.out.println("jira3 from american zip");
+			System.out.println("jira3 from american area");
+			System.out.println("jira3 from american desh");
+			System.out.println("jira3 from american land");
 		}
 		
 		wb.write(fos);
