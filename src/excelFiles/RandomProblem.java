@@ -76,6 +76,9 @@ public class RandomProblem {
 		for(int i =0; i<N; i++) {
 			wbs.createRow(i).createCell(0).setCellValue(dataArray[i].toString());
 			
+			System.out.println("jira3 from american zone");
+			
+			
 		}
 		
 		wb.write(fos);
