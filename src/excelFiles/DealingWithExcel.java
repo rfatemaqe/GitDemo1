@@ -57,11 +57,8 @@ public class DealingWithExcel {
 		fis.close();
 		
 		System.out.println("jira1");
+		System.out.println("jira2 from American zone");
 		
-		System.out.println("for develop branch");
-		System.out.println("for develop branch\");
-		System.out.println("for develop branch\"");
-		System.out.println("for develop branch\"");
 		
 		
 	}
