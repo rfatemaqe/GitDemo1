@@ -59,8 +59,58 @@ public class DealingWithExcel {
 		System.out.println("jira1");
 		System.out.println("jira2 from American zone");
 		
+<<<<<<< HEAD
+=======
+		System.out.println("for develop branch");
+		System.out.println("for develp branch");
+		System.out.println("for develop branch");
+		System.out.println("for devlop branc");
+		System.out.println("FOR DEVELOP");
+		System.out.println("for develp branch");
+		System.out.println("for develop branch");
+		System.out.println("for devlop branc");
+		System.out.println("FOR DEVELOP");
+		System.out.println("FOR DEVELOP");
 		
+>>>>>>> c34b840d74ac95c02605e47df244fba7c121644f
+		
+		
+	
 		
 	}
+public void name() {
+	
+}
 
+
+public void email() {
+	
+}
+
+
+public void namee() {
+	
+}
+
+
+public void emaile() {
+	
+}
+public void neamee() {
+	
+}
+
+
+public void eemailee() {
+	
+}
+
+
+public void nameee() {
+	
+}
+
+
+public void emailee() {
+}
 }
