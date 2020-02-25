@@ -92,4 +92,21 @@ public void namee() {
 public void emaile() {
 	
 }
+public void neamee() {
+	
+}
+
+
+public void eemailee() {
+	
+}
+
+
+public void nameee() {
+	
+}
+
+
+public void emailee() {
+}
 }
